@@ -23,4 +23,4 @@ Start jupyter notebook
 jupyter notebook
 ```
 
-##Open main.ipynb and follow comments and documentation
+## Open main.ipynb and follow comments and documentation
