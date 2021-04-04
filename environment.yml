@@ -1,0 +1,13 @@
+name: EDSR
+
+dependencies:
+  - python=3.7
+  - numpy
+  - notebook
+  - imageio
+  - matplotlib
+  - ipywidgets
+  - pip
+  - pip:
+      - tensorflow
+      - tensorflow-datasets
